@@ -1,5 +1,5 @@
 # Data-Exploration
-Link to PDF (includes Visuals): 
+[Link to PDF (includes Visuals):](https://github.com/marspier/Data-Exploration/blob/main/Data%20Exploration.pdf) 
 
 # Hospital Readmission Analysis 🏥
 Overview
